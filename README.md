@@ -3,7 +3,7 @@
 HTML and CSS
 ## Screenshot
 
-Click here: ![img](.\assets\images\screenshot.png) to see the screenshot.
+Click here: ![img](./images/screenshot.png) to see the screenshot.
 
 ## Usage
 
